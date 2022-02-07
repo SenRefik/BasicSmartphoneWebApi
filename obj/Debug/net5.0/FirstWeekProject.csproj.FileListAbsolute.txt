@@ -1,0 +1,66 @@
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\appsettings.json
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.exe
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.deps.json
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.runtimeconfig.json
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.runtimeconfig.dev.json
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\ref\FirstWeekProject.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.pdb
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.csproj.AssemblyReference.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.AssemblyInfoInputs.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.AssemblyInfo.cs
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.csproj.CoreCompileInputs.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\staticwebassets\FirstWeekProject.StaticWebAssets.Manifest.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\staticwebassets\FirstWeekProject.StaticWebAssets.xml
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\scopedcss\bundle\FirstWeekProject.styles.css
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.RazorTargetAssemblyInfo.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\ref\FirstWeekProject.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.pdb
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.genruntimeconfig.cache
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\refik\source\repos\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\appsettings.json
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.exe
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.deps.json
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.runtimeconfig.json
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.runtimeconfig.dev.json
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\ref\FirstWeekProject.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\FirstWeekProject.pdb
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.csproj.AssemblyReference.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.AssemblyInfoInputs.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.AssemblyInfo.cs
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.csproj.CoreCompileInputs.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\staticwebassets\FirstWeekProject.StaticWebAssets.Manifest.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\staticwebassets\FirstWeekProject.StaticWebAssets.xml
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\scopedcss\bundle\FirstWeekProject.styles.css
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.RazorTargetAssemblyInfo.cache
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\ref\FirstWeekProject.dll
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.pdb
+C:\Users\refik\Documents\Github Repos\22-RefikSen-main\dotNet Bootcamp\FirstWeekProject\obj\Debug\net5.0\FirstWeekProject.genruntimeconfig.cache
