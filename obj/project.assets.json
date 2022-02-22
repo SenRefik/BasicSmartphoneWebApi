@@ -742,11 +742,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\refik\\Documents\\Github Repos\\22-RefikSen-main\\dotNet Bootcamp\\FirstWeekProject\\FirstWeekProject.csproj",
+      "projectUniqueName": "C:\\Users\\refik\\Documents\\Github Repos\\BasicSmartphoneWebApi\\FirstWeekProject.csproj",
       "projectName": "FirstWeekProject",
-      "projectPath": "C:\\Users\\refik\\Documents\\Github Repos\\22-RefikSen-main\\dotNet Bootcamp\\FirstWeekProject\\FirstWeekProject.csproj",
+      "projectPath": "C:\\Users\\refik\\Documents\\Github Repos\\BasicSmartphoneWebApi\\FirstWeekProject.csproj",
       "packagesPath": "C:\\Users\\refik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\refik\\Documents\\Github Repos\\22-RefikSen-main\\dotNet Bootcamp\\FirstWeekProject\\obj\\",
+      "outputPath": "C:\\Users\\refik\\Documents\\Github Repos\\BasicSmartphoneWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

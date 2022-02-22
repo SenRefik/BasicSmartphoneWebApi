@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5fgwp3cop1wz+f05+6BE5wCscwakchE3kduM74ujJfLC2VWvDxRlCSLmVMxXQIhASqLCO0Jk/zmhdCrrLTqQHQ==",
+  "dgSpecHash": "eg+Efr9M8P7RE2wEXpNl03bbhuuFhstO4O1Y+Y/SuKoXoYmIR6honc71wJ76lZMvt61z/v2RrcitEq15SaWJSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\refik\\Documents\\Github Repos\\22-RefikSen-main\\dotNet Bootcamp\\FirstWeekProject\\FirstWeekProject.csproj",
+  "projectFilePath": "C:\\Users\\refik\\Documents\\Github Repos\\BasicSmartphoneWebApi\\FirstWeekProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\refik\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.13\\microsoft.entityframeworkcore.5.0.13.nupkg.sha512",
     "C:\\Users\\refik\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.13\\microsoft.entityframeworkcore.abstractions.5.0.13.nupkg.sha512",
